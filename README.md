@@ -13,6 +13,7 @@ A sleek and responsive booking platform for salons, spas, and barbers — offeri
 - 💳 Payment Integration (Razorpay/Stripe)  
 - 🧾 Appointment History & Notifications  
 - 🖥️ Admin Panel for Staff & Services  
+- 🔐 User Authentication (Login / Signup / OTP)
 
 ---
 
@@ -28,3 +29,4 @@ A sleek and responsive booking platform for salons, spas, and barbers — offeri
 ## 📌 Note
 
 This project is ideal for local salons, spas, or barbers looking to digitize their booking system with ease.
+
